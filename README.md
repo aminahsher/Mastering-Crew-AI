@@ -1,6 +1,8 @@
 # Mastering-Crew-AI
 CrewAI is a free Python tool that helps multiple AI agents work together like a team. Each agent is given a role, goal, and tools to solve complex problems step by step.
+
 ![Screenshot (109)](https://github.com/user-attachments/assets/2fa3cbc6-e835-442a-8964-1cdfab18ea63)
+
 **Core Components of CrewAI:**
 Agents: Independent AI units with specific roles and goals (e.g., a 'Researcher' gathers information, a 'Writer' creates content). Agents can use tools, make decisions, and work together.
 
